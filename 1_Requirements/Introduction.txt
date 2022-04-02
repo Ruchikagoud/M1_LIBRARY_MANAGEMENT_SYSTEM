@@ -1,0 +1,65 @@
+INTRODUCTION
+
+*Library Management System is a term for computer-based system that manage the
+catalogue of a library. The main purpose of this system is to manage library daily
+operation efficiently.
+*The library management deals in management of records. The records include books which
+are required by different students accordingly. Maintaining these records manually becomes
+difficult thus we are proving such system a computerized backend.
+
+Objectives of Library Management System
+
+a) To build a system that can receive input and generate automatically output in easy
+way and short time.
+b) Provide timely access to requested materials.
+c) Simplify search/discovery of library resources.
+d) To build a monitoring system that is able to monitor and manage all library operations
+efficiently.
+e) A search column to search availability of books
+
+USER REQUIREMENTS
+
+*The application is designed for the use of librarians and library users.
+*This system provides a user-friendly data entry with dropdown
+button menu, list box and checkbox in purpose to make the input entry easier to
+understand and use. 
+*It is also created to ensure that the library items are stored properly in
+order to maintain their security
+
+HOW?
+
+This system will store all the books and members information that consist book numbers,
+book titles, author names and racks to the system database. It also provides search
+function to help students find the book by number of book. Search function will search
+through the books database to look for the book and view where the book is situated.
+
+DRAWBACKS OF EXISTING SYSTEM:
+
+1) The records stored manually can be altered by unauthorized person
+2) Searching any information is difficult, since all the cards are to be checked.
+3) Generation of fine on late return is difficult to calculate.
+4) Problem arises if any of the records get misplaced.
+
+FUTURE SCOPE:
+
+To enter and preserve details of the various issues and keep a track on their returns.
+1) Online book issue
+2) Request column for librarian for providing new book.
+3) A separate column for digital library.
+4) Student login page where student can find books issued by him/her and date of return
+
+PROBLEMS FACED/DRAWBACKS:
+
+1)File lost
+2)File damaged
+3)Difficult to search record
+4)Space consuming
+5)Cost consuming
+
+BACKGROUND OF PROJECT:
+
+Library Management System is an application which refers to library systems which are    
+generally small or medium in size. 
+It is used by librarian to manage the library using a
+computerized system where he/she can record various transactions like issue of books,
+return of books, addition of new books, addition of new students etc.
